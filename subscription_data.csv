@@ -1,0 +1,8 @@
+UserID,Name,Email,SubscriptionType,StartDate,EndDate,Status,MonthlyCost
+101,Anika Sharma,anika.sharma@example.com,Premium,2024-01-15,2025-01-14,Active,499
+102,Ravi Kumar,ravi.kumar@example.com,Basic,2023-11-01,2024-10-31,Expired,199
+103,Meera Joshi,meera.joshi@example.com,Standard,2024-06-10,2025-06-09,Active,299
+104,Arjun Patel,arjun.patel@example.com,Premium,2023-09-20,2024-09-19,Expired,499
+105,Sneha Rao,sneha.rao@example.com,Basic,2024-03-05,2025-03-04,Active,199
+106,Vikram Desai,vikram.desai@example.com,Standard,2024-07-01,2025-06-30,Active,299
+107,Isha Verma,isha.verma@example.com,Premium,2024-08-01,2025-07-31,Active,499
